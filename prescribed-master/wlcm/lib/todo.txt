@@ -1,0 +1,9 @@
+- doctor search results
+- book appointment screen
+- set all reminders button
+    
+- medicine expand function
+- edit icon remove from presct
+- 
+
+api_key = AIzaSyDRoZPrN-j2p46P69Z9Rg_vIg047ewlynw
